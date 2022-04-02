@@ -171,3 +171,4 @@ Um pull request é quando você quer fazer merge do seu código em outro branch,
 
 ### Curso Free
 - [Git e Github para Iniciantes](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+- [Git e Github Curso em Video](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
