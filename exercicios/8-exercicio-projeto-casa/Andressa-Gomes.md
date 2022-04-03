@@ -6,5 +6,4 @@ Olá, eu sou a **Andressa** Gomes :)
 
 > Meus hobbies são: Andar de Bike, ~~ver reality show ruim da gringa~~ e **ficar com meus pets**.
 > Eu trabalho com eventos e marketing em uma faculdade atualmente mas meu sonho e ==trabalhar com tech== :)
-
-Um abraço e até mais! 
+Um abraço e até logo!
