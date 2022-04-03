@@ -1,4 +1,4 @@
-# Quem é a Andressa? 
+Quem é a Andressa? 
 ![Minha Foto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7kypSh9Nkdyq0o9ERZWIRzsy0srzddqsTL5sRCWrkrgeC3oC_sARjEctoJjyMCVzhY0&usqp=CAU)
 
 Olá, eu sou a **Andressa** Gomes :)
