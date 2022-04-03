@@ -41,7 +41,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
     |── 6-exercicio-pull
     ├── 8-EXERCICIO-PROJETO-CASA
     |  ├── nome-da-aluna.md
-    |  ├──natalia-luiza // exemplo como deve ficar
+    |  ├──entrega-natalia-luiza // exemplo como deve ficar
    ```
 
 6. Adicionem as atualizações, "commitem" e deêm `push` no repositório de vocês
