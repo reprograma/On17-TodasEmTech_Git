@@ -81,7 +81,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 
 ## Até quando devo entregar ?
 
-Sexta-feira 09/04/2022
+Sábado 09/04/2022
 
 ## Dúvidas e sugestões ?
 
