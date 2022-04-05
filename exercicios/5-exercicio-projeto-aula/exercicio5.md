@@ -16,16 +16,16 @@
   **Antes:**
     ```
       <tr>
-        <td>Natália Luiza</td>
-        <td>Usuário do GitHub</td>
+        <td>Emanueli Martins</td>
+        <td>Emanueli Martins</td>
       </tr>
     ```
 
   **Depois**
     ```
       <tr>
-        <td>Natália Luiza</td>
-        <td>natalialuizads</td>
+        <td>Emanueli Martins</td>
+        <td>Emanueli Martins</td>
       </tr>
     ```
 - Salve a alteração e verifique no navegador se está correto.
