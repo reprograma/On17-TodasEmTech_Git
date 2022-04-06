@@ -22,7 +22,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 3. Crie uma `branch` com o seu nome
 
    ```
-   git chechout -b "seu-nome"`
+   git checkout -b "seu-nome"`
    ```
 
 4. Entrem na branch criada e sejam felizes resolvendo o exercício :)
