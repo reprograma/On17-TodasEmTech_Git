@@ -1,4 +1,4 @@
-  - * **Nome:** Pietra Tenório
+  - **Nome:** Pietra Tenório
    - **Idade** 27 anos
    - **De onde é?** Camaragibe, PE **Camaragibe é Região Metropolitana do Recife*
    - **Hobbies:** Correr 5km; Leituras; Escutar Música; Treinar inferiores
