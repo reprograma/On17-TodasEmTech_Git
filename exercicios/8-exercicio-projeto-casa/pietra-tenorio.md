@@ -1,6 +1,5 @@
-  - **Nome:** Pietra Tenório
-   -  **Idade** 27 anos
-    - **De onde é?** Camaragibe, PE **Camaragibe é Região Metropolitana do Recife*
-    - **Hobbies:** Correr 5km; Leituras; Escutar Música; Treinar inferiores
-    - **Profissão:** Arte-educadora de diplomada pela UFPE
-    
+  - * **Nome:** Pietra Tenório
+   - **Idade** 27 anos
+   - **De onde é?** Camaragibe, PE **Camaragibe é Região Metropolitana do Recife*
+   - **Hobbies:** Correr 5km; Leituras; Escutar Música; Treinar inferiores
+   - **Profissão:** Arte-educadora de diplomada pela UFPE
