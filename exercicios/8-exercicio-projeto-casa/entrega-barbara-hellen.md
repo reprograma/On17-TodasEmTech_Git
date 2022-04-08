@@ -1,0 +1,12 @@
+# Olá
+- Sou á Barbara Hellen
+- Tenho 28 anos
+- Sou de São Paulo com alma carioca rs
+- Sou formada em Radiologia
+- Libriana
+- **Coisas que amo:**
+- Praia
+- Jantar fora
+- Um bom vinho
+- Barzinho com a galera, não pode faltar rs
+- Viajar
