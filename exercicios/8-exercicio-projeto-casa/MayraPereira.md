@@ -15,5 +15,6 @@ Gosto de ler *livros de troucrime*, *mangas* e *Hqs*.
 
 No momento estou desempregada, mas faço freela de foto e filmagem e sou "assessora" da minha namorada que é violinista, com ela faço a parte de falar com os clientes, elaboração de orçamento, contrato, e faço a filmagem e a fotografia dos eventos que ela participa, gosto bastante dessa ajuda que posso dar para ela!
 
+**Essa sou eu ou um pouquinho da minha pessoa** ;)
 
-*Essa sou eu ou um pouquinho da minha pessoa* ;)
+E lógico uma breja gelada é super bem vinda, partiu marcar prof. com geral da turma pra comemorar!
