@@ -8,5 +8,4 @@
 - Praia
 - Jantar fora
 - Um bom vinho
-- Barzinho com a galera, não pode faltar rs
 - Viajar
