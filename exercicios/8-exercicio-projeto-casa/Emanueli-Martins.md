@@ -1,0 +1,1 @@
+Meu nome é Emanueli Martins tenho 24 anos moro em Praia Grande no litoral de São Paulo. Meu hobbie favorito é fotografar, amo fotografar paisagens. E atualmente nao possuo nenhuma profissão pois tive que deixar o emprego para cuidar do meu filho de 8 meses. Mas logo logo serei uma futura desenvolvedora Front-End graças a Reprograma
