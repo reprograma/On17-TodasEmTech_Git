@@ -13,6 +13,7 @@ Sou do *Guarujá*.
 
 Gosto de ler *livros de troucrime*, *mangas* e *Hqs*.
 
-No momento estou desempregada, mas faço freela de Fotografa e assessora da minha namorada que é violinista, com ela faço a parte de falar com os clientes, elaboração de orçamento, contrato, e faço a filmagem e a fotografia dos eventos que ela participa, gosto bastante dessa ajuda que posso dar para ela!
+No momento estou desempregada, mas faço freela de foto e filmagem e sou "assessora" da minha namorada que é violinista, com ela faço a parte de falar com os clientes, elaboração de orçamento, contrato, e faço a filmagem e a fotografia dos eventos que ela participa, gosto bastante dessa ajuda que posso dar para ela!
+
 
 *Essa sou eu ou um pouquinho da minha pessoa* ;)
