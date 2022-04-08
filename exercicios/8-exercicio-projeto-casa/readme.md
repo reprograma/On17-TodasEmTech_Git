@@ -22,7 +22,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 3. Crie uma `branch` com o seu nome
 
    ```
-   git chechout -b "seu-nome"`
+   git checkout -b "seu-nome"`
    ```
 
 4. Entrem na branch criada e sejam felizes resolvendo o exercício :)
@@ -41,7 +41,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
     |── 6-exercicio-pull
     ├── 8-EXERCICIO-PROJETO-CASA
     |  ├── nome-da-aluna.md
-    |  ├──natalia-luiza // exemplo como deve ficar
+    |  ├──entrega-natalia-luiza // exemplo como deve ficar
    ```
 
 6. Adicionem as atualizações, "commitem" e deêm `push` no repositório de vocês
@@ -81,7 +81,7 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 
 ## Até quando devo entregar ?
 
-Sexta-feira 09/04/2022
+Sábado 09/04/2022
 
 ## Dúvidas e sugestões ?
 
