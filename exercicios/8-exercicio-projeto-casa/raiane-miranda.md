@@ -6,7 +6,4 @@
  Sou publicitária, especialista em Comunicação Digital e Mídias Sociais e Mestra em Comunicação Social. 
  Nos últimos anos me dedique exclusivamente à pesquisa acadêmica, onde estudei o racismo algorítmico como um fenômeno comunicacional nas humanidades digitais. Defendi minha dissertação em dezembro de 2021.
  A experiência acadêmica me desestimulou a lecionar no ensino superior, mas espero que essa vontade volte um dia. Talvez a vontade de ensinar programação para outras mulheres reacenda esse desejo em mim. 
- Meu objetivo no momento é conseguir voltar para o mercado atuando na minha nova carreira de desenvolvedora web. 
-
-
-
+ Meu objetivo no momento é conseguir voltar para o mercado atuando na minha nova carreira de desenvolvedora web.
