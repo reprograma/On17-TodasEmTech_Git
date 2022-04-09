@@ -1,0 +1,1 @@
+Me chamo Gabriella Ribeiro, Tenho 23 anos, Sou de São Paulo/SP, meu Hobbies favoritos são, Andar de bicicleta, ler, assistir series e ficar com minhas filhas de quatro patas, e Futura desenvolvedora Front-end,
