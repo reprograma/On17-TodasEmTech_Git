@@ -16,8 +16,8 @@
   **Antes:**
     ```
       <tr>
-        <td>Emanueli Martins</td>
-        <td>Emanueli Martins</td>
+        <td>Nome</td>
+        <td>Usuário do Github</td>
       </tr>
     ```
 
@@ -25,7 +25,7 @@
     ```
       <tr>
         <td>Emanueli Martins</td>
-        <td>Emanueli Martins</td>
+        <td>Usuário do Github</td>
       </tr>
     ```
 - Salve a alteração e verifique no navegador se está correto.
